@@ -1,0 +1,152 @@
+2022-02-21 18:10:40,638 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-21 18:10:41,898 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-21 18:10:41,915 INFO werkzeug MainThread :  * Debugger PIN: 711-508-263
+2022-02-21 18:10:42,352 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-21 18:14:15,114 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\Nagaraju\\Downloads\\EmployeeDemo-master\\employee_crud\\db.py', reloading
+2022-02-21 18:14:15,294 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-21 18:14:17,000 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-21 18:14:17,012 INFO werkzeug MainThread :  * Debugger PIN: 711-508-263
+2022-02-21 18:14:17,506 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-21 18:28:18,212 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-21 18:28:19,787 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-21 18:28:19,801 INFO werkzeug MainThread :  * Debugger PIN: 711-508-263
+2022-02-21 18:28:20,325 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-21 18:29:46,368 INFO werkzeug Thread-2 : 127.0.0.1 - - [21/Feb/2022 18:29:46] "GET /employee HTTP/1.1" 200 -
+2022-02-21 18:30:42,315 ERROR employee_crud.server Thread-3 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:30:42,318 ERROR employee_crud.server Thread-3 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:30:42,319 ERROR employee_crud.server Thread-3 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:30:42,319 ERROR employee_crud.server Thread-3 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:30:42,319 ERROR employee_crud.server Thread-3 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:30:42,319 ERROR employee_crud.server Thread-3 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:30:42,327 ERROR employee_crud.server Thread-3 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:30:42,327 INFO werkzeug Thread-3 : 127.0.0.1 - - [21/Feb/2022 18:30:42] "POST /employee HTTP/1.1" 200 -
+2022-02-21 18:30:56,324 INFO werkzeug Thread-4 : 127.0.0.1 - - [21/Feb/2022 18:30:56] "GET /employee HTTP/1.1" 200 -
+2022-02-21 18:31:11,169 ERROR employee_crud.server Thread-5 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:31:11,169 ERROR employee_crud.server Thread-5 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:31:11,179 ERROR employee_crud.server Thread-5 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:31:11,180 ERROR employee_crud.server Thread-5 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:31:11,181 ERROR employee_crud.server Thread-5 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:31:11,186 ERROR employee_crud.server Thread-5 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:31:11,187 ERROR employee_crud.server Thread-5 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:31:11,187 INFO werkzeug Thread-5 : 127.0.0.1 - - [21/Feb/2022 18:31:11] "POST /employee HTTP/1.1" 200 -
+2022-02-21 18:31:17,794 INFO werkzeug Thread-6 : 127.0.0.1 - - [21/Feb/2022 18:31:17] "GET /employee HTTP/1.1" 200 -
+2022-02-21 18:31:44,553 ERROR employee_crud.server Thread-7 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:31:44,553 ERROR employee_crud.server Thread-7 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:31:44,561 ERROR employee_crud.server Thread-7 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:31:44,561 ERROR employee_crud.server Thread-7 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:31:44,561 ERROR employee_crud.server Thread-7 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:31:44,567 ERROR employee_crud.server Thread-7 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:31:44,569 ERROR employee_crud.server Thread-7 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:31:44,570 INFO werkzeug Thread-7 : 127.0.0.1 - - [21/Feb/2022 18:31:44] "POST /employee HTTP/1.1" 200 -
+2022-02-21 18:32:53,525 ERROR employee_crud.server Thread-8 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:32:53,528 ERROR employee_crud.server Thread-8 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:32:53,528 ERROR employee_crud.server Thread-8 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:32:53,528 ERROR employee_crud.server Thread-8 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:32:53,537 ERROR employee_crud.server Thread-8 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:32:53,538 ERROR employee_crud.server Thread-8 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:32:53,540 ERROR employee_crud.server Thread-8 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:32:53,540 INFO werkzeug Thread-8 : 127.0.0.1 - - [21/Feb/2022 18:32:53] "POST /employee HTTP/1.1" 200 -
+2022-02-21 18:32:59,756 INFO werkzeug Thread-9 : 127.0.0.1 - - [21/Feb/2022 18:32:59] "GET /employee HTTP/1.1" 200 -
+2022-02-21 18:33:59,294 INFO werkzeug Thread-10 : 127.0.0.1 - - [21/Feb/2022 18:33:59] "GET /employee HTTP/1.1" 200 -
+2022-02-21 18:36:24,981 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\Nagaraju\\Downloads\\EmployeeDemo-master\\employee_crud\\api.py', reloading
+2022-02-21 18:36:25,159 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-21 18:36:26,878 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-21 18:36:26,884 INFO werkzeug MainThread :  * Debugger PIN: 711-508-263
+2022-02-21 18:36:27,525 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-21 18:36:48,871 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-21 18:36:50,589 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-21 18:36:50,604 INFO werkzeug MainThread :  * Debugger PIN: 711-508-263
+2022-02-21 18:36:51,243 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-21 18:37:09,509 ERROR employee_crud.server Thread-2 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:37:09,509 ERROR employee_crud.server Thread-2 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:37:09,509 ERROR employee_crud.server Thread-2 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:37:09,518 ERROR employee_crud.server Thread-2 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:37:09,521 ERROR employee_crud.server Thread-2 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:37:09,523 ERROR employee_crud.server Thread-2 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:37:09,524 ERROR employee_crud.server Thread-2 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:37:09,524 INFO werkzeug Thread-2 : 127.0.0.1 - - [21/Feb/2022 18:37:09] "POST /employee HTTP/1.1" 200 -
+2022-02-21 18:37:15,300 INFO werkzeug Thread-3 : 127.0.0.1 - - [21/Feb/2022 18:37:15] "GET /employee HTTP/1.1" 200 -
+2022-02-21 18:41:33,588 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\Nagaraju\\Downloads\\EmployeeDemo-master\\employee_crud\\api.py', reloading
+2022-02-21 18:41:33,771 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-21 18:41:35,238 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-21 18:41:35,241 INFO werkzeug MainThread :  * Debugger PIN: 711-508-263
+2022-02-21 18:41:35,736 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-21 18:41:55,615 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-21 18:41:57,305 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-21 18:41:57,327 INFO werkzeug MainThread :  * Debugger PIN: 711-508-263
+2022-02-21 18:41:57,920 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-21 18:42:07,272 ERROR employee_crud.server Thread-2 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:42:07,272 ERROR employee_crud.server Thread-2 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:42:07,272 ERROR employee_crud.server Thread-2 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:42:07,280 ERROR employee_crud.server Thread-2 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:42:07,280 ERROR employee_crud.server Thread-2 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:42:07,280 ERROR employee_crud.server Thread-2 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:42:07,289 ERROR employee_crud.server Thread-2 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:42:07,290 INFO werkzeug Thread-2 : 127.0.0.1 - - [21/Feb/2022 18:42:07] "POST /employee HTTP/1.1" 200 -
+2022-02-21 18:42:13,396 INFO werkzeug Thread-3 : 127.0.0.1 - - [21/Feb/2022 18:42:13] "GET /employee HTTP/1.1" 200 -
+2022-02-21 18:42:50,472 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\Nagaraju\\Downloads\\EmployeeDemo-master\\employee_crud\\api.py', reloading
+2022-02-21 18:42:50,624 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-21 18:42:52,094 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-21 18:42:52,112 INFO werkzeug MainThread :  * Debugger PIN: 711-508-263
+2022-02-21 18:42:52,632 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-21 18:42:54,774 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\Nagaraju\\Downloads\\EmployeeDemo-master\\employee_crud\\db.py', reloading
+2022-02-21 18:42:54,893 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-21 18:42:56,375 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-21 18:42:56,383 INFO werkzeug MainThread :  * Debugger PIN: 711-508-263
+2022-02-21 18:42:56,902 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-21 18:43:05,246 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\Nagaraju\\Downloads\\EmployeeDemo-master\\employee_crud\\api.py', reloading
+2022-02-21 18:43:05,365 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-21 18:43:07,123 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-21 18:43:07,140 INFO werkzeug MainThread :  * Debugger PIN: 711-508-263
+2022-02-21 18:43:07,726 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-21 18:43:28,405 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\Nagaraju\\Downloads\\EmployeeDemo-master\\employee_crud\\db.py', reloading
+2022-02-21 18:43:28,523 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-21 18:43:30,205 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-21 18:43:30,223 INFO werkzeug MainThread :  * Debugger PIN: 711-508-263
+2022-02-21 18:43:30,688 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-21 18:44:33,741 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-21 18:44:35,404 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-21 18:44:35,413 INFO werkzeug MainThread :  * Debugger PIN: 711-508-263
+2022-02-21 18:44:35,899 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-21 18:46:15,278 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-21 18:46:16,813 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-21 18:46:16,821 INFO werkzeug MainThread :  * Debugger PIN: 711-508-263
+2022-02-21 18:46:17,292 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-21 18:46:28,357 ERROR employee_crud.server Thread-2 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:46:28,357 ERROR employee_crud.server Thread-2 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:46:28,365 ERROR employee_crud.server Thread-2 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:46:28,365 ERROR employee_crud.server Thread-2 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:46:28,365 ERROR employee_crud.server Thread-2 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:46:28,374 ERROR employee_crud.server Thread-2 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:46:28,375 ERROR employee_crud.server Thread-2 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:46:28,375 INFO werkzeug Thread-2 : 127.0.0.1 - - [21/Feb/2022 18:46:28] "POST /employee HTTP/1.1" 200 -
+2022-02-21 18:46:34,098 INFO werkzeug Thread-3 : 127.0.0.1 - - [21/Feb/2022 18:46:34] "GET /employee HTTP/1.1" 200 -
+2022-02-21 18:47:12,101 INFO werkzeug Thread-4 : 127.0.0.1 - - [21/Feb/2022 18:47:12] "GET /employee HTTP/1.1" 200 -
+2022-02-21 18:47:16,643 ERROR employee_crud.server Thread-5 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:47:16,652 ERROR employee_crud.server Thread-5 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:47:16,654 ERROR employee_crud.server Thread-5 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:47:16,657 ERROR employee_crud.server Thread-5 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:47:16,658 ERROR employee_crud.server Thread-5 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:47:16,661 ERROR employee_crud.server Thread-5 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:47:16,661 ERROR employee_crud.server Thread-5 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:47:16,661 INFO werkzeug Thread-5 : 127.0.0.1 - - [21/Feb/2022 18:47:16] "POST /employee HTTP/1.1" 200 -
+2022-02-21 18:47:22,964 INFO werkzeug Thread-6 : 127.0.0.1 - - [21/Feb/2022 18:47:22] "GET /employee HTTP/1.1" 200 -
+2022-02-21 18:48:26,216 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\Nagaraju\\Desktop\\server_application\\employee_crud\\api.py', reloading
+2022-02-21 18:48:26,367 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-21 18:48:27,942 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-21 18:48:27,947 INFO werkzeug MainThread :  * Debugger PIN: 711-508-263
+2022-02-21 18:48:28,441 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-21 18:49:05,000 ERROR employee_crud.server Thread-2 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:49:05,008 ERROR employee_crud.server Thread-2 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:49:05,010 ERROR employee_crud.server Thread-2 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:49:05,012 ERROR employee_crud.server Thread-2 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:49:05,013 ERROR employee_crud.server Thread-2 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:49:05,013 ERROR employee_crud.server Thread-2 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:49:05,013 ERROR employee_crud.server Thread-2 : ('UNIQUE constraint failed: employee.email',)
+2022-02-21 18:49:05,028 INFO werkzeug Thread-2 : 127.0.0.1 - - [21/Feb/2022 18:49:05] "POST /employee HTTP/1.1" 200 -
+2022-02-21 18:49:11,411 INFO werkzeug Thread-3 : 127.0.0.1 - - [21/Feb/2022 18:49:11] "GET /employee HTTP/1.1" 200 -
+2022-02-21 18:50:01,940 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\Nagaraju\\Downloads\\EmployeeDemo-master\\employee_crud\\api.py', reloading
+2022-02-21 18:50:02,077 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-21 18:50:03,342 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-21 18:50:03,344 INFO werkzeug MainThread :  * Debugger PIN: 711-508-263
+2022-02-21 18:50:03,841 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)

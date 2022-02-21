@@ -1,0 +1,4 @@
+flask-restful
+pandas
+openpyxl
+requests
